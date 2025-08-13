@@ -38,8 +38,8 @@ O objetivo é servir como material de **referência rápida** para estudo e prá
 ---
 
 ## 📫 Contato
-- **LinkedIn:** [Seu LinkedIn Aqui](https://www.linkedin.com/in/anthony-puziski-67506b209/)
-- **GitHub:** [Seu GitHub Aqui](https://github.com/anthonypuziski)
+- **LinkedIn:** (https://www.linkedin.com/in/anthony-puziski-67506b209/)
+- **GitHub:** (https://github.com/anthonypuziski)
 
 ---
 
