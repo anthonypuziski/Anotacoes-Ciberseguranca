@@ -2,7 +2,7 @@
 PDF com anotações de Cibersegurança e Redes
 # 📄 Anotações de Cibersegurança e Redes de Computadores
 
-Este repositório contém um PDF com conceitos, comandos e ferramentas essenciais para iniciantes em **Cibersegurança** e **Redes de Computadores**.  
+Este repositório contém conceitos, comandos e ferramentas essenciais para iniciantes em **Cibersegurança** e **Redes de Computadores**.  
 O objetivo é servir como material de **referência rápida** para estudo e prática.
 
 ---
