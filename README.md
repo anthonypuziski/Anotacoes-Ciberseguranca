@@ -31,6 +31,8 @@ O objetivo é servir como material de **referência rápida** para estudo e prá
 - **OpenVAS** — Análise de vulnerabilidades
 
 ---
+## 📂 Arquivo
+📄 [Baixar PDF das Anotações](file:///C:/Users/Anthony/Downloads/Anotacoes_Ciberseguranca%20(1).html)
 
 
 ---
