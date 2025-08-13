@@ -1,5 +1,4 @@
 # Anotacoes-Ciberseguranca
-PDF com anotações de Cibersegurança e Redes
 # 📄 Anotações de Cibersegurança e Redes de Computadores
 
 Este repositório contém conceitos, comandos e ferramentas essenciais para iniciantes em **Cibersegurança** e **Redes de Computadores**.  
