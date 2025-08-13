@@ -32,8 +32,6 @@ O objetivo é servir como material de **referência rápida** para estudo e prá
 
 ---
 
-## 📂 Arquivo
-📄 [Baixar PDF das Anotações](Anotacoes_Ciberseguranca.pdf)
 
 ---
 
